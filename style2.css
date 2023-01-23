@@ -1,0 +1,118 @@
+.navbar-brand {
+
+    margin-left:85px;
+}
+
+
+/*** Header ***/
+.carousel-caption {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 10%;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 3rem;
+    height: 3rem;
+}
+
+/*pulau bali*/
+
+
+.main_heading {
+    margin: 50px 0px;
+}
+
+.main_heading h1
+{
+	font-size: 45px;
+    font-weight: 300;
+    text-align: center;
+    line-height: 45px;
+    color: #B2B2B2;
+    font-family: Arial Bold, sans-serif;
+
+}
+
+.underline
+{
+    display: inline-block;
+    width: 200px;
+    height: 2px;
+    background-color: #BFEAF5;
+}
+
+
+.main_heading2 {
+    margin: 60px 0px 90px 0px;
+}
+
+.main_heading2 h1
+{
+
+	font-size: 45px;
+    font-weight: 300;
+    text-align: center;
+    line-height: 45px;
+    color: #B2B2B2;
+    font-family: Arial Bold, sans-serif;
+
+}
+
+.destination
+{
+
+    background-color:#ffffff;
+    margin-bottom: 120px;
+    padding-top: 30px;
+    height: 1150px;
+
+}
+
+.row
+{
+    margin: -40px 65px;
+}
+
+.destination .row
+{
+    margin: -75px 65px;
+}
+.galerry.row
+{
+    margin: -50px 65px;
+}
+.galerry .underline
+{
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+.card
+{
+    -webkit-transition: all .15s linear;
+    -moz-transition: all .15s linear;
+    -ms-transition: all .15s linear;
+    -o-transition: all .15s linear;
+    transition: all .15s linear;
+}
+
+
+.galerry
+{
+    margin-top: 0px;
+}
+
+.footer
+{
+    margin-top: 50px;
+}
+
+
